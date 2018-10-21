@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WinForm.DrawTools/.vs/DrawTools/v15
+/WinForm.DrawTools/DocToolkit/bin
+/WinForm.DrawTools/DocToolkit/obj
+/WinForm.DrawTools/DrawTools/bin/Debug
+/WinForm.DrawTools/DrawTools/obj/Debug
