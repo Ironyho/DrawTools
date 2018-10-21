@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Draw Tools Redux")]
-[assembly: AssemblyDescription("Draw Tools with several enhancements")]
+[assembly: AssemblyTitle("Draw Tools")]
+[assembly: AssemblyDescription("Draw Tools")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MSDC")]
-[assembly: AssemblyProduct("Draw Tools Redux")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Draw Tools")]
 [assembly: AssemblyCopyright("Copyright ©  2007")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
