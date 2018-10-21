@@ -1,0 +1,45 @@
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\bin\Debug\Utilities.dll.config
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\bin\Debug\Utilities.dll
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\bin\Debug\Utilities.pdb
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\ColorDialog.g.cs
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities_MarkupCompile.cache
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities_MarkupCompile.lref
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\ColorDialog.baml
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities.g.resources
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities.dll
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities.pdb
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\bin\Debug\Utilities.dll.config
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\bin\Debug\Utilities.dll
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\bin\Debug\Utilities.pdb
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\ColorDialog.g.cs
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities_MarkupCompile.cache
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities_MarkupCompile.lref
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\ColorDialog.baml
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities.g.resources
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities.dll
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\Utilities\obj\Debug\Utilities.pdb
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\bin\Debug\Utilities.dll.config
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\bin\Debug\Utilities.dll
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\bin\Debug\Utilities.pdb
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\ColorDialog.g.cs
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\Utilities_MarkupCompile.cache
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\Utilities_MarkupCompile.lref
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\ColorDialog.baml
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\Utilities.g.resources
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\Utilities.dll
+C:\Users\user\Documents\Code\DrawTools\WPF.DrawTools\Utilities\obj\Debug\Utilities.pdb

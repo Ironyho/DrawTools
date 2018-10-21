@@ -1,0 +1,18 @@
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\DrawToolsLib.Properties.Resources.resources
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\bin\Debug\DrawToolsLib.dll.config
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\bin\Debug\DrawToolsLib.dll
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\bin\Debug\DrawToolsLib.pdb
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\DrawToolsLib.dll
+C:\Documents and Settings\Ye Hong\桌面\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\DrawToolsLib.pdb
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\bin\Debug\DrawToolsLib.dll.config
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\bin\Debug\DrawToolsLib.dll
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\bin\Debug\DrawToolsLib.pdb
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\DrawToolsLib.csprojAssemblyReference.cache
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\DrawToolsLib.Properties.Resources.resources
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\DrawToolsLib.csproj.GenerateResource.cache
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\DrawToolsLib.csproj.CoreCompileInputs.cache
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\DrawToolsLib.dll
+D:\WPF DrawTools\DrawToolsWPF_src\DrawToolsWPF\DrawToolsLib\obj\Debug\DrawToolsLib.pdb
